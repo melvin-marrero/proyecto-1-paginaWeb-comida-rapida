@@ -1,0 +1,51 @@
+[
+    {
+        "id":1,
+        "nombre":"tacos",
+        "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "precio":1000,
+        "img":"imagenHamburguer/taco.avif",
+        "cantida":1
+    },
+    
+    {
+        "id":2,
+        "nombre":"tacos",
+        "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "precio":1000,
+        "img":"imagenHamburguer/taco2.avif",
+        "cantida":1
+    },
+    {
+        "id":3,
+        "nombre":"tacos",
+        "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "precio":1000,
+        "img":"imagenHamburguer/taco4.avif",
+        "cantida":1
+    },
+    {
+        "id":4,
+        "nombre":"tacos",
+        "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "precio":1000,
+        "img":"imagenHamburguer/taco5.jpg",
+        "cantida":1
+    },
+    {
+        "id":5,
+        "nombre":"tacos",
+        "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "precio":1000,
+        "img":"imagenHamburguer/taco6.avif",
+        "cantida":1
+    },
+    {
+        "id":2,
+        "nombre":"tacos",
+        "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "precio":1000,
+        "img":"imagenHamburguer/taco7.avif",
+        "cantida":1
+    }
+]

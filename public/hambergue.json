@@ -1,0 +1,51 @@
+[
+    {
+        "id":1,
+        "nombre":"hamberguer",
+        "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "precio":1000,
+        "img":"imagenHamburguer/hambuerger.png",
+        "cantida":1
+    },
+    
+    {
+        "id":2,
+        "nombre":"hamberguer",
+        "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "precio":1000,
+        "img":"imagenHamburguer/hambuerger1.png",
+        "cantida":1
+    },
+    {
+        "id":3,
+        "nombre":"hamberguer",
+        "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "precio":1000,
+        "img":"imagenHamburguer/hambuerger.png",
+        "cantida":1
+    },
+    {
+        "id":4,
+        "nombre":"hamberguer",
+        "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "precio":1000,
+        "img":"imagenHamburguer/hambuerger1.png",
+        "cantida":1
+    },
+    {
+        "id":5,
+        "nombre":"hamberguer",
+        "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "precio":1000,
+        "img":"imagenHamburguer/hambuerger1.png",
+        "cantida":1
+    },
+    {
+        "id":6,
+        "nombre":"hamberguer",
+        "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "precio":1000,
+        "img":"imagenHamburguer/hambuerger1.png",
+        "cantida":1
+    }
+]

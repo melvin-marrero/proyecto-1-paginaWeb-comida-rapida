@@ -1,0 +1,45 @@
+
+.header-content{
+  margin: 15px;
+  display: flex;
+  align-items: center;
+  padding: 200px 0 150px 0;
+}
+.header-tex{
+  width: 45%;
+}
+.header-tex h1{
+  font-size: 50px;
+  font-weight: bold;
+  color: #fdfdfd;
+}
+.header-tex p{
+  font-size: 18px;
+  color: #a0a0a0;
+}
+.header-carrusel{
+  width: 70%;
+}
+@media(max-width: 600px) {
+  .container{
+    flex-direction: column;
+    padding: 180px 30px 30px 30px;
+  }
+  .header-content{
+    flex-direction: column;
+    padding: 180px 30px 30px 30px;
+  }
+  .header-tex{
+    width: 100%;
+    padding: 0;
+    text-align: center;
+  }
+  .header-tex h1{
+    font-size: 40px;
+  }
+      
+  .header-carrusel{
+    width: 100%;
+    margin-top: 45px;
+  }
+}
