@@ -4,7 +4,7 @@ import { Link } from "react-router-dom"
 
 export default function Main(){
     return (
-        <main className="product-menu">
+    <main className="product-menu">
         <div >
             <div className="producto">
                 <h2 className="title">menu</h2>

@@ -5,7 +5,7 @@ import "../hojasEstilo/seccionInfo.css"
 
 export default function SeccionInfo(){
     return (
-        <section className="info">
+    <section className="info">
         <div className="info-content container">
             <div className="info-tex">
                 <p>los mejores platillo</p>
@@ -14,7 +14,6 @@ export default function SeccionInfo(){
                     <div className="info-1">
                         <img src={f1} alt="foto" />
                         <div className="info-2">
-                            
                             <h3>loren</h3>
                             <p>info2-Lorem ipsum dolor sit amet consectetur,</p>
                         </div>

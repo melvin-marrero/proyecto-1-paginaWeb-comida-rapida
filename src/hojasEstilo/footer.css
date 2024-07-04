@@ -34,6 +34,7 @@
 .dato p{
   color: white;
   text-align: center;
+  font-size: 12px;
 }
 @media (max-width: 600px) {
   .social{
