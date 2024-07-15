@@ -2,9 +2,9 @@
 import './App.css';
 import Home from './compontes/home';
 import { BrowserRouter,Routes,Route } from 'react-router-dom';
-import ContainerHamburguer from './compontes/containerHamburguer';
-import ContainerTacos from './compontes/containerTacos';
-import ContainerDesayuno from './compontes/containerDesayuno';
+import Hambergue from './compontes/hamburguer';
+import Desayuno from './compontes/desayuno';
+import Tacos from './compontes/tacos';
 
 
 function App() {
@@ -12,9 +12,9 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path='/' element={<Home />} />
-        <Route path='/hamberguer' element={<ContainerHamburguer />} />
-        <Route path='/tacos' element={<ContainerTacos />} />
-        <Route path='/desayuno' element={<ContainerDesayuno/>} />
+        <Route path='/hamberguer' element={<Hambergue />} />
+        <Route path='/tacos' element={<Tacos />} />
+        <Route path='/desayuno' element={<Desayuno/>} />
       </Routes>
     </BrowserRouter>
   );
