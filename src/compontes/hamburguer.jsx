@@ -1,28 +1,24 @@
-import { useState } from "react"
-import { useEffect } from "react";
-import axios from "axios";
+
 import "../hojasEstilo/hambergue.css"
 import DefaulLayout from "./defaulLayout";
 import Main from "./main";
+import { hambergue } from "../containerProduct/hambergue";
+import { Link } from "react-router-dom";
 
 export default function Hambergue() {
-    const [data,setData]=useState([]);
-    useEffect(()=>{
-        axios("hambergue.json").then((res)=> setData(res.data));
-    },[]);
   return (
     <DefaulLayout>
       <Main />
     <div className="container-fluid">
        <div className="row row-cols-1 row-cols-md-4 g-3">
-          {data.map((product)=>{
+          {hambergue.map((item)=>{
             return (
-              <div key={product.id} className="item">
-                 <img src={product.img} alt="img-product" className="img-product" />
+              <div key={item.id} className="item">
+                <Link to={`${item.nombre}`}> <img src={item.img} alt="img-product" className="img-product" /></Link>
                  <div className="info-product">
-                    <h4>{product.nombre}</h4>
-                    <p className="descripcio">{product.descripcio}</p>
-                    <p className="precio">${new Intl.NumberFormat().format(product.precio)}</p>
+                    <h4>{item.nombre}</h4>
+                    <p className="descripcio">{item.descripcio}</p>
+                    <p className="precio">${new Intl.NumberFormat().format(item.precio)}</p>
                   </div>
               </div>
             )

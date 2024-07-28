@@ -1,52 +1,51 @@
-[
+export const tacos = [
     {
         "id":1,
-        "nombre":"desayuno",
+        "name":"tacos",
         "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
-        "precio":1000,
-        "img":"imagenHamburguer/desayuno.svg",
+        "precio":2000,
+        "img":"/imagenHamburguer/taco.avif",
         "cantida":1
     },
+    
     {
         "id":2,
-        "nombre":"desayuno",
+        "name":"tacos-special",
         "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
         "precio":1000,
-        "img":"imagenHamburguer/desayuno1.jpg",
+        "img":"/imagenHamburguer/taco2.avif",
         "cantida":1
     },
     {
         "id":3,
-        "nombre":"desayuno",
+        "name":"tacos-danes",
         "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
-        "precio":1000,
-        "img":"imagenHamburguer/desayuno3.avif",
+        "precio":500.00,
+        "img":"/imagenHamburguer/taco4.avif",
         "cantida":1
     },
     {
         "id":4,
-        "nombre":"desayuno",
+        "name":"tacos-sabros",
         "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
-        "precio":1000,
-        "img":"imagenHamburguer/desayuno4.avif",
+        "precio":300.00,
+        "img":"/imagenHamburguer/taco5.jpg",
         "cantida":1
     },
     {
         "id":5,
-        "nombre":"desayuno",
+        "name":"tacos-picantes",
         "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
-        "precio":1000,
-        "img":"imagenHamburguer/desayuno5.jpg",
+        "precio":200.00,
+        "img":"/imagenHamburguer/taco6.avif",
         "cantida":1
     },
     {
         "id":6,
-        "nombre":"desayuno",
+        "name":"tacos-quesano",
         "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
-        "precio":1000,
-        "img":"imagenHamburguer/desayuno2.jpg",
+        "precio":499.00,
+        "img":"/imagenHamburguer/taco7.avif",
         "cantida":1
     }
-    
-    
 ]

@@ -1,51 +1,51 @@
-[
+export const hambergue = [
     {
         "id":1,
-        "nombre":"tacos",
+        "nombre":"hamberguer",
         "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
         "precio":1000,
-        "img":"imagenHamburguer/taco.avif",
+        "img":"/imagenHamburguer/hambuerger.png",
         "cantida":1
     },
     
     {
         "id":2,
-        "nombre":"tacos",
+        "nombre":"hamberguer-especial",
         "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
-        "precio":1000,
-        "img":"imagenHamburguer/taco2.avif",
+        "precio":2000,
+        "img":"/imagenHamburguer/hambuerger1.png",
         "cantida":1
     },
     {
         "id":3,
-        "nombre":"tacos",
+        "nombre":"hamberguer-doble-carne",
         "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
-        "precio":1000,
-        "img":"imagenHamburguer/taco4.avif",
+        "precio":3000,
+        "img":"/imagenHamburguer/hambuerger.png",
         "cantida":1
     },
     {
         "id":4,
-        "nombre":"tacos",
+        "nombre":"hamberguer-like",
         "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
-        "precio":1000,
-        "img":"imagenHamburguer/taco5.jpg",
+        "precio":4000,
+        "img":"/imagenHamburguer/hambuerger1.png",
         "cantida":1
     },
     {
         "id":5,
-        "nombre":"tacos",
+        "nombre":"hamberguer-good",
         "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
-        "precio":1000,
-        "img":"imagenHamburguer/taco6.avif",
+        "precio":20.5,
+        "img":"/imagenHamburguer/hambuerger1.png",
         "cantida":1
     },
     {
-        "id":2,
-        "nombre":"tacos",
+        "id":6,
+        "nombre":"hamberguer-super",
         "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
-        "precio":1000,
-        "img":"imagenHamburguer/taco7.avif",
+        "precio":6000,
+        "img":"/imagenHamburguer/hambuerger1.png",
         "cantida":1
     }
 ]

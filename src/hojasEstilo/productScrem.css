@@ -1,0 +1,52 @@
+.item-screm{
+    border-radius: 10px;
+    width: 700px; 
+    margin: 100px auto;
+    align-items: center;
+    justify-content: center;
+     
+  }
+  
+  .img-product{
+    width: 100%;
+    height: 250px; 
+  }
+  
+  h4{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .precio{
+      font-size: 16px;
+      color: rgb(16, 192, 16);
+      font-weight: bold;
+  }
+  .descripcio{
+    font-size: 14px;
+    color: wheat;
+  }
+  .card-body{
+    margin: 5px;
+    margin-left: 10px;
+    margin-top: 40px;
+  }
+  button{
+   display: flex;
+   border-radius: 3px;
+   background-color: darkorange;
+  }
+  button:hover{
+    background-color: wheat;
+  }
+  @media (max-width: 600px){
+    .item-screm{
+     width: 100%;
+    }
+    h4{
+      font-size: 20px;
+    }
+    .descripcio{
+      font-size: 17px;
+    }
+}

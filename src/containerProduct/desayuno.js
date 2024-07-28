@@ -1,51 +1,50 @@
-[
+export const desayuno = [
     {
         "id":1,
-        "nombre":"hamberguer",
+        "nombre":"desayuno-mangu-mixto",
         "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
         "precio":1000,
-        "img":"imagenHamburguer/hambuerger.png",
+        "img":"/imagenHamburguer/desayuno.svg",
         "cantida":1
     },
-    
     {
         "id":2,
-        "nombre":"hamberguer-doble-carne",
+        "nombre":"desayuno-bajo-grasa",
         "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
-        "precio":1000,
-        "img":"imagenHamburguer/hambuerger1.png",
+        "precio":999.0,
+        "img":"/imagenHamburguer/desayuno1.jpg",
         "cantida":1
     },
     {
         "id":3,
-        "nombre":"hamberguer-like",
+        "nombre":"desayuno-esquisi",
         "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
-        "precio":1000,
-        "img":"imagenHamburguer/hambuerger.png",
+        "precio":2000,
+        "img":"/imagenHamburguer/desayuno3.avif",
         "cantida":1
     },
     {
         "id":4,
-        "nombre":"hamberguer-especial",
+        "nombre":"desayuno-pancofi",
         "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
-        "precio":1000,
-        "img":"imagenHamburguer/hambuerger1.png",
+        "precio":3000,
+        "img":"/imagenHamburguer/desayuno4.avif",
         "cantida":1
     },
     {
         "id":5,
-        "nombre":"hamberguer-good",
+        "nombre":"desayuno-dieteti",
         "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
         "precio":1000,
-        "img":"imagenHamburguer/hambuerger1.png",
+        "img":"/imagenHamburguer/desayuno5.jpg",
         "cantida":1
     },
     {
         "id":6,
-        "nombre":"hamberguer-super",
+        "nombre":"desayuno-conflay",
         "descripcio":"lorem Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
         "precio":1000,
-        "img":"imagenHamburguer/hambuerger1.png",
+        "img":"/imagenHamburguer/desayuno2.jpg",
         "cantida":1
     }
 ]

@@ -53,7 +53,7 @@ export default function Footer(){
         </div>
         <div className="dato">
           <p>
-          melvinmarrero78@gmail.com:  desarrollador web (20024).&#169;
+          melvin marrero desarrollador web (2024).&#169;
          </p>  
         </div>
     </footer>
