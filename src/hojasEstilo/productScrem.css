@@ -32,7 +32,7 @@
     margin-top: 40px;
   }
   button{
-   display: flex;
+    width: 80px;
    border-radius: 3px;
    background-color: darkorange;
   }

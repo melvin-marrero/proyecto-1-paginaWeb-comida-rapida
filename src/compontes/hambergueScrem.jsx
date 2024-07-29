@@ -22,7 +22,7 @@ export default function HambergueScrem() {
                 </div>
               </div>
           </div>
-            <button onClick={() => back(-1)}>atra</button>
+            <button onClick={() => back(-1)}>back</button>
       </div>
     </>
     

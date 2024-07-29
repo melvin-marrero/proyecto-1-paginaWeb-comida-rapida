@@ -12,8 +12,8 @@ export default function Main(){
             </div>
             <div className="menu-nav" id="menu">
             
-                <Link to={"/hamberguer"} className="tab">hamburguesa</Link>
-                <Link to={"/tacos"} className="tab">tacos</Link>
+                <Link to={"/hamberguer"} className="tab ">hamburguesa</Link>
+                <Link to={"/tacos"} className="tab ">tacos</Link>
                 <Link to={"/desayuno"} className="tab">desayuno</Link>
                 
             </div>
