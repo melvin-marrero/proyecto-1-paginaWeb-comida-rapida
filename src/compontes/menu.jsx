@@ -24,13 +24,13 @@ export default function Menu(){
                 <Link className="nav-link " aria-disabled="true" to={"/"}>inicio</Link>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#"><BotonDesplegables /></a>
+                <a className="nav-link" href=""><BotonDesplegables /></a>
               </li>
               <li className="nav-item">
-                <a className="nav-link " aria-disabled="true" href="#"><BotonSelvicio nombre={"selvicio"}/></a>
+                <a className="nav-link " aria-disabled="true" href=""><BotonSelvicio nombre={"selvicio"}/></a>
               </li>
               <li className="nav-item">
-                <a className="nav-link " aria-disabled="true" href="#"><BotonSelvicio nombre={"contacto"}/></a>
+                <a className="nav-link " aria-disabled="true" href=""><BotonSelvicio nombre={"contacto"}/></a>
               </li>
               
             </ul>
