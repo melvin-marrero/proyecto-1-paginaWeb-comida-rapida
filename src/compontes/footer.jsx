@@ -12,40 +12,40 @@ export default function Footer(){
         <div className="link">
             <h4>lorem</h4>
             <ul>
-                <li><a href="">lorem</a></li>
-                <li><a href="">lorem</a></li>
-                <li><a href="">lorem</a></li>
-                <li><a href="">lorem</a></li>
+                <li><a >lorem</a></li>
+                <li><a >lorem</a></li>
+                <li><a >lorem</a></li>
+                <li><a >lorem</a></li>
             </ul>
         </div>
         <div className="link">
             <h4>lorem</h4>
             <ul>
-                <li><a href="">lorem</a></li>
-                <li><a href="">lorem</a></li>
-                <li><a href="">lorem</a></li>
-                <li><a href="">lorem</a></li>
+                <li><a >lorem</a></li>
+                <li><a >lorem</a></li>
+                <li><a >lorem</a></li>
+                <li><a >lorem</a></li>
             </ul>
         </div>
         <div className="link">
             <h4>lorem</h4>
             <ul>
-                <li><a href="">lorem</a></li>
-                <li><a href="">lorem</a></li>
-                <li><a href="">lorem</a></li>
-                <li><a href="">lorem</a></li>
+                <li><a >lorem</a></li>
+                <li><a >lorem</a></li>
+                <li><a >lorem</a></li>
+                <li><a >lorem</a></li>
             </ul>
         </div>
         <div className="link">
             <h4>Redes sociales</h4>
             <div className="socials">
-                <a href="" className="social">
+                <a  className="social">
                     <img src={s1} alt="foto" />
                 </a>
-                <a href="" className="social">
+                <a  className="social">
                     <img src={s2} alt="img" className="icon"/>
                 </a>
-                <a href=""className="social">
+                <a className="social">
                     <img src={s3} alt="foto" />
                 </a>
             </div>
