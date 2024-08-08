@@ -12,40 +12,40 @@ export default function Footer(){
         <div className="link">
             <h4>lorem</h4>
             <ul>
-                <li><a >lorem</a></li>
-                <li><a >lorem</a></li>
-                <li><a >lorem</a></li>
-                <li><a >lorem</a></li>
+                <li>lorem</li>
+                <li>lorem</li>
+                <li>lorem</li>
+                <li>lorem</li>
             </ul>
         </div>
         <div className="link">
             <h4>lorem</h4>
             <ul>
-                <li><a >lorem</a></li>
-                <li><a >lorem</a></li>
-                <li><a >lorem</a></li>
-                <li><a >lorem</a></li>
+                <li>lorem</li>
+                <li>lorem</li>
+                <li>lorem</li>
+                <li>lorem</li>
             </ul>
         </div>
         <div className="link">
             <h4>lorem</h4>
             <ul>
-                <li><a >lorem</a></li>
-                <li><a >lorem</a></li>
-                <li><a >lorem</a></li>
-                <li><a >lorem</a></li>
+                <li>lorem</li>
+                <li>lorem</li>
+                <li>lorem</li>
+                <li>lorem</li>
             </ul>
         </div>
         <div className="link">
             <h4>Redes sociales</h4>
             <div className="socials">
-                <a  className="social">
+                <a href="https://www.facebook.com/" className="social">
                     <img src={s1} alt="foto" />
                 </a>
-                <a  className="social">
+                <a href="https://twitter.com/?lang=es" className="social">
                     <img src={s2} alt="img" className="icon"/>
                 </a>
-                <a className="social">
+                <a href="https://www.instagram.com/" className="social">
                     <img src={s3} alt="foto" />
                 </a>
             </div>
